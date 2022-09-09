@@ -1,0 +1,113 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Portfolio",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                },
+                {
+                    "text": "Live",
+                    "href": "https://naveenkumar-portfolio.netlify.app"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/youtube.png",
+            "title": "Youtube-Clone App",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Naveenkumar-creater/Youtube-clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://youtube-clone-apps.netlify.app"
+                }
+            ],
+            "tags" : [
+                "Reactjs",        
+                 "MUI",
+                "Rapidapi",
+                "Materialui",
+                "Netlify"
+            ]
+        },
+        {
+            "image" : "images/projects/flipcart png img.png",
+            "title": "Flipkart-Clone App",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Naveenkumar-creater/Flipkart_clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://flipkartse.netlify.app"
+                }
+            ],
+            "tags" : [
+                "Reactjs",
+                "Nodejs",
+                "Expressjs",
+                "MongoDB",
+                "Netlify"
+            ]
+        },
+        {
+            "image" : "images/projects/restaruant.png",
+            "title": "Restaruant App",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Naveenkumar-creater/Restarunt-app"
+                }, 
+                {
+                    "text": "Live",
+                    "href": "https://resturant-apps.netlify.app"
+                }
+            ],
+            "tags" : [
+                "Reactjs",
+                "UI",
+                "UX",
+                "Netlify"
+            ]
+        },
+        {
+            "image" : "images/projects/Blog png img.png",
+            "title": "Blog App",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Naveenkumar-creater/Blog-Website"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://blog-app-app.netlify.app"
+                }
+            ],
+            "tags" : [
+                "Reactjs",
+                "Nodejs",
+                "Expressjs",
+                "MongoDB",
+                "Netlify"
+            ]
+        }
+       
+        
+    ]
+}
