@@ -7,7 +7,7 @@ import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
   nameStyle: {
-    fontSize: '5em',
+    fontSize: '2.6em',
   },
   inlineChild: {
     display: 'inline-block',
@@ -36,6 +36,7 @@ function Home() {
   return data ? (
     <Fade>
       <div style={styles.mainContainer}>
+        <img src={data?.imageSource} alt="profile" style={{ width: '150px', borderRadius: '5px!important' }} />
         <h1 style={styles.nameStyle}>{data?.name}</h1>
         <div style={{ flexDirection: 'row' }}>
           <h2 style={styles.inlineChild}>I&apos;m&nbsp;</h2>

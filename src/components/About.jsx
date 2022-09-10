@@ -9,20 +9,12 @@ import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
   introTextContainer: {
-    margin: 40,
+    marginBottom: 270,
     flexDirection: 'column',
-    whiteSpace: 'wrap',
-    textAlign: 'left',
+    flexWrap: 'wrap',
+    textAlign: 'center',
     fontSize: '1.2em',
     fontWeight: 500,
-  },
-  introImageContainer: {
-    margin: 10,
-    height: 150,
-    width: 10,
-    justifyContent: 'right',
-    alignItems: 'center',
-    display: 'flex',
   },
 };
 
@@ -56,9 +48,6 @@ function About(props) {
                 <Row>
                   <Col style={styles.introTextContainer}>
                     {parseIntro(data.about)}
-                  </Col>
-                  <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" />
                   </Col>
                 </Row>
               </Fade>

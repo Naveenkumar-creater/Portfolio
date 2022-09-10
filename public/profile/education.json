@@ -2,8 +2,8 @@
     "education":[
         {
             "title": "Aug 2016 - Aug 2020",
-            "cardTitle": "B.E, Mechanical Engineering",
-            "cardSubtitle":"Anna University",
+            "cardTitle": "B.E Mechanical Engineering",
+            "cardSubtitle":"Muthayammal College of Engineering (Anna University)",
             "cardDetailedText": "CGPA - 6.75%",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
@@ -12,13 +12,19 @@
         {
             "title": "Jun 2014 - Apr 2016",
             "cardTitle": "High School",
-            "cardSubtitle":"M.A.M Hr Sec School, City",
-            "cardDetailedText": "Marks - 89%"
+            "cardSubtitle":"M.A.M Higher Secondary School",
+            "cardDetailedText": "Marks - 89%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
         }, {
             "title": "Jun 2012 - Apr 2014",
             "cardTitle": "SSLC",
-            "cardSubtitle":"vaidheeswara Hr Sec School",
-            "cardDetailedText": "Marks -95%"
+            "cardSubtitle":"Vaidheeswara Higher Secondary School",
+            "cardDetailedText": "Marks - 95%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
         }
     ]
 }

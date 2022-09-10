@@ -30,6 +30,7 @@
   display: block;
   margin-top: 2px;
   height: 3px;
+
   width: 0;
 }
 
@@ -106,7 +107,7 @@ section.timeline-card-content div.card-description > p {
 }
 
 
-@media only screen and (min-width: 768px) and (max-width: 992px) {
+@media only screen and (min-width: 200px) and (max-width: 990px) {
 
   .navbar__link {
     margin-left: 0.4em;
@@ -118,7 +119,7 @@ section.timeline-card-content div.card-description > p {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width:200px) {
 
   .navbar__link::after {
     background: none;
@@ -146,5 +147,6 @@ section.timeline-card-content div.card-description > p {
   font-size: 3em;
   font-weight: bold;
   margin-bottom: 25px;
+  
 }
 

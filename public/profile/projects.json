@@ -1,25 +1,6 @@
 {
     "projects" : [
-        {
-            "image" : "images/projects/portfolio.png",
-            "title": "Portfolio",
-            "bodyText": "",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": ""
-                },
-                {
-                    "text": "Live",
-                    "href": "https://naveenkumar-portfolio.netlify.app"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
-        },
+        
         {
             "image" : "images/projects/youtube.png",
             "title": "Youtube-Clone App",
@@ -49,7 +30,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/Naveenkumar-creater/Flipkart_clone"
+                    "href": "https://github.com/Naveenkumar-creater/Flipkart-Clone"
                 },
                 {
                     "text": "Live",

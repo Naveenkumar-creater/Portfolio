@@ -2,7 +2,7 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://www.linkedin.com/in/naveen777/"
+            "href": "https://www.linkedin.com/in/naveen777/?originalSubdomain=in"
         },
         {
             "network" : "github",
@@ -10,7 +10,7 @@
         },
         {
             "network" : "email",
-            "href": "naveenmech1074@gmail.com"
+            "href": "mailto:naveenmech1074@gmail.com"
         }
     ]
 }
